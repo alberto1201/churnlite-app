@@ -1,0 +1,13 @@
+# Install churnlite from TestPyPI
+# Once published, uncomment the lines below:
+# --index-url https://test.pypi.org/simple/
+# --extra-index-url https://pypi.org/simple
+# churnlite==0.1.0
+
+# For now, install locally (during development):
+# pip install -e ../churnlite
+
+streamlit
+pandas
+scikit-learn
+numpy
